@@ -1,7 +1,3 @@
-Certainly! Here's an updated README for your Jupyter Notebook "convert_RGB_to_GRAY_in_OpenCV.ipynb":
-
-```markdown
-# Image Processing with OpenCV
 
 ## Introduction
 
@@ -70,6 +66,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/brincode/convert-RGB-image-to-GRAY-image-in-openCV/issues).
 
 Happy Coding!
-```
-
-Remember to replace `your-username` with your actual GitHub username in the repository URL.
