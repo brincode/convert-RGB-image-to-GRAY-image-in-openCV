@@ -24,8 +24,8 @@ This repository contains a Jupyter Notebook (`convert_RGB_to_GRAY_in_OpenCV.ipyn
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/image-processing-opencv.git
-   cd image-processing-opencv
+   git clone https://github.com/brincode/convert-RGB-image-to-GRAY-image-in-openCV
+   cd  convert_RGB_to_GRAY_in_OpenCV.ipynb
    ```
 
 2. **Open the Jupyter Notebook:**
