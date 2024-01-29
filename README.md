@@ -59,7 +59,7 @@ The notebook uses the OpenCV library to perform the following actions:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code according to your needs.
+This project is licensed under the [MIT License]. Feel free to use and modify the code according to your needs.
 
 ## Issues
 
